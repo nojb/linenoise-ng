@@ -10,4 +10,6 @@ liblinenoise.a
 *.dSYM
 history.txt
 *.o
+*.obj
+*.exe
 *~
